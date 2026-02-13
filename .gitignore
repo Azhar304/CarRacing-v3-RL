@@ -12,6 +12,7 @@ models/
 *.ckpt
 
 # Videos and output media
+
 videos/
 *.mp4
 *.avi
