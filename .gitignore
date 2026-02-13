@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment folders
+env/
+*.env
+*.conda
+
+# Logs and model outputs
+logs/
+models/
+*.zip
+*.ckpt
+
+# Videos and output media
+videos/
+*.mp4
+*.avi
+*.mov
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
