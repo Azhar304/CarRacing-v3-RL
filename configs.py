@@ -1,0 +1,11 @@
+TOTAL_TIMESTEPS = 50000
+LEARNING_RATE = 3e-4
+N_STEPS = 2048
+BATCH_SIZE = 64
+N_EPOCHS = 10
+GAMMA = 0.99
+
+LOG_DIR = "logs/"
+MODEL_DIR = "models/"
+VIDEO_DIR = "videos/"
+MODEL_NAME = "ppo_car_racing"
